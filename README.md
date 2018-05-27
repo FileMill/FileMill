@@ -1,6 +1,6 @@
 <img src="https://filemill.net/res/4/FileMill.logo.png" height=333/>
 
-# FileMill
+# [FileMill](https://FileMill.net)
 Flexible command-line GUI generation, with focus on parallelization and custom presets.
 * Drag & drop
 * Batch processing
